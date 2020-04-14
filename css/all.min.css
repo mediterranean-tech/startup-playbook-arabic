@@ -1,13 +1,18 @@
+p {
+    text-align: right;
+}
+
+
 .bg.bg-ceo {
   background-color: #96bd6e;
   background-image: url("../img/ceo/bg.png");
 /*&.on, .juggler:hover
-    .ball-outside.b1, 
-    .ball-outside.b2, 
+    .ball-outside.b1,
+    .ball-outside.b2,
     .ball-outside.b3,
     .arm.arm2,
     .arm.arm2 .arm-bottom,
-    .arm.arm1, 
+    .arm.arm1,
     .arm.arm1 .arm-bottom
       animation-play-state running
       */
